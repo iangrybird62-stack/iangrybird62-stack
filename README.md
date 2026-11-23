@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sneha080106&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sneha080106&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sneha080106&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=iangrybird62-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=iangrybird62-stack&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=iangrybird62-stack&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
